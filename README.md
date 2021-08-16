@@ -11,13 +11,13 @@ In order to run this project,you need to follow below steps :
 
 5.Type "appletviewer MultiHopManager.java"
 
- 6. Again open command prompt from Delay folder
+6. Again open command prompt from Delay folder
 
- 7. Type "javac client.java"
+7. Type "javac client.java"
 
- 8.Type "java client"
+8.Type "java client"
 
- 9.Repeat steps 6,7,8 for client1to client9
+9.Repeat steps 6,7,8 for client1to client9
 
 10.Go to applet viewer MultiHopmanager and click on "Start Network Manager"
 
