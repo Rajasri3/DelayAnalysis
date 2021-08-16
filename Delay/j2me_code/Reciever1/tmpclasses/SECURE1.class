@@ -1,0 +1,90 @@
+ ˛∫æ   / ”
+ < r s	 t u v
+  r w
+  x
+  y
+  z
+ { | }
+  ~
+  Ä Å
+  Ç
+ { É
+ $ Ñ Ö
+ $ Ü á à â
+ $ ä ã å ç é è
+  r
+ $ ê N ë
+  í ì
+  î ï ñ
+  ó
+ { ò ô ö
+ $ õ
+ $ ú ù û ü † ° ¢
+  £ § • ¶ ß ®
+ ; ©
+ $ ™
+ ; ´ ¨ ≠ <init> ()V Code LineNumberTable LocalVariableTable this 	LSECURE1; en (CLjava/lang/String;)C i I zl j passch Ljava/lang/String; pa passb Leader xorout ftwo xop sbit XOROUT k 	plainchar C passs PT pass pctext ptext ptb Pass leader Ljava/util/Hashtable; aaa bbb aa de 	cyperchar cyper encmsg 8(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String; msg password MSG Emsg msglen msgc [C decmsg 
+SourceFile Reciever1.java = >   Æ Ø ∞ java/lang/StringBuffer Plain Text:   ± ≤ ± ≥ ¥ µ ∂ ∑ ∏ Plain Text (Integer type):   ± π ∫ ª º Plain Text (Binary):   Ω æ ∑ ø ¿ ¡ 0 ¬ √ Plain Text ( 8 bit Binary):   
+pass Start PassWord Text :   ƒ ≈ = PassWord Text ( Binary):    PassWord Text (32 Bit Binary):   0Derive the Leaders (L1 to L16) from the Password java/util/Hashtable ∆ « L » … L14   À java/lang/String L15 Ã ¡ ∑ Õ Encryption start PT= Ω º Œ œ 01     #Enrp Text ( 8 bit Binary) Rotation  th: Cyper  Text  = Cyper  Text ( int format) = – — Cyper  Text ( char) = decryption start  Original text(binary) = Original text(int) = Original text(Char) = D E = “ c E SECURE1 java/lang/Object java/lang/System out Ljava/io/PrintStream; append ,(Ljava/lang/String;)Ljava/lang/StringBuffer; (C)Ljava/lang/StringBuffer; toString ()Ljava/lang/String; java/io/PrintStream println (Ljava/lang/String;)V (I)Ljava/lang/StringBuffer; java/lang/Integer toBinaryString (I)Ljava/lang/String; valueOf '(Ljava/lang/String;)Ljava/lang/Integer; (Ljava/lang/Object;)V length ()I concat &(Ljava/lang/String;)Ljava/lang/String; charAt (I)C 	substring (II)Ljava/lang/String; put 8(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object; get &(Ljava/lang/Object;)Ljava/lang/Object; intValue (I)V equals (Ljava/lang/Object;)Z parseInt (Ljava/lang/String;I)I ([C)V   ; <        = >  ?   /     *∑ ±    @       k A        B C    D E  ?      TM+N6≤ ª Y∑ ∂ ∂ ∂ 	∂ 
+6≤ ª Y∑ ∂ ∂ ∂ 	∂ 
+∏ :≤ ª Y∑ ∂ ∂ ∂ 	∂ 
+≤ ∏ ∂ ∂ ¢ D∂ d66¢ ,∂ MÑßˇÔ,∂ M≤ ª Y∑ ∂ ,∂ ∂ 	∂ 
+≤ ∂ 
+≤ ª Y∑ ∂ -∂ ∂ 	∂ 
+:6-∂ ¢ ¢-∂ 6		∏ :
+
+∂ ¢ i
+∂ d6:6¢ ∂ :ÑßˇÌ
+∂ :≤ ª Y∑ -∂ ∂ ∂ 	∂ ∂ ∂ ∂ 	∂ 
+∂ :≤ ª Y∑ ∂ ∂ ∂ 	∂ 
+Ñßˇ[≤ ª Y∑ ∂ ∂ ∂ 	∂ 
+≤ ∂ 
+ª Y∑ :6	6
+
+∂ ¢ \
+
+`∂ :≤ ª Y∑ ∂ 	∂ ∂ ∂ ∂ 	∂ 
+ª Y∑  ∂ 	∂ ∂ 	∂ !WÑ	Ñ
+Ñ
+ßˇ†"∂ #¿ $:
+%∂ #¿ $:
+∏ ∂ &∏ ∂ &Ç6≤ ∂ '≤ (∂ 
+≤ ª Y∑ )∂ ,∂ ∂ 	∂ 
+6¢É:,∂ :∏ ∂ &ª Y∑  ∂ ∂ ∂ 	∂ #¿ $∏ ∂ &Ç6∏ *:∂ † '∂ +ô ∂ :ß ,:∏ ∂ &6≤ ª Y∑ ∂ -∂ ∂ ∂ 	∂ 
+∂ :≤ ∂ 
+6,∂ ¢ i,`∂ ∏ ∂ &Ç6≤ ∏ *∂ 
+∏ *:∂ † '∂ +ô ∂ :ß ,:∏ ∂ &6∂ :ÑÑßˇîM≤ ∂ 
+:∂ ¢ U∂ d66¢ ∂ :ÑßˇÌ∂ :M≤ ª Y∑ .∂ ∂ /∂ ,∂ ∂ 	∂ 
+Ñß˛|≤ ª Y∑ 0∂ ,∂ ∂ 	∂ 
+≤ ª Y∑ 1∂ ,∏ 2∂ ∂ 	∂ 
+≤ ª Y∑ 3∂ ,∏ 2í∂ ∂ 	∂ 
+,∏ 2í¨    @  n [   s  t  u  v " w & y @ z G { a | l } v  Ä É ä Ö ë É ó á û à ∑ å ø ç ÿ é ‹ è Ë ë  î ˜ ï ó ô ö ú" ö( û1 ü^ †g §Å èá ß° ™© ´≤ ¨µ ≠¬ Øœ ±Û ≤ µ ∂ ≠ ª' º3 ΩF æN ¡V ¬o ≈y «} »Ö  ≤ Àπ Ã¬ –Ã ”ÿ ÿ‹ ‹Ê ﬂ ‚ „ Ê" Ë7 ÍB ÎI ÏR \ Ûh ¯l ¸vÇ Êàãìó	°´µæƒÕ–Û ≈˘/M A  B   É  F G  Ä 7 H G   I G  \ H G  X J K   ë L G 	 ˜ ä M K 
+ ﬂ ® F G œ F N K ∏ c F G 
+ o F G Æ  F G ´ H H G }v O K Ön P K ≤A Q G π: R K ó \ S K rá T G   T U V    T W K  Q X K  O Y K  L Z V  &. [ G  G \ K  ‹x ] K ≤¢ ^ _ µü I G 	'- ` K 
+3! a K F b G   c E  ?  Ñ    ⁄=N+:∏ :∂ † N∂ ¢ +∂ d66¢ -∂ NÑßˇÔ-∂ N≤ ∂ 
+≤ ª Y∑ ∂ ∂ ∂ 	∂ 
+:6∂ ¢ §∂ 6∏ :		∂ ¢ j	∂ d6
+:6
+¢ ∂ :ÑßˇÌ	∂ :≤ ª Y∑ ∂ ∂ ∂ ∂ ∂ ∂ ∂ 	∂ 
+∂ :≤ ª Y∑ ∂ ∂ ∂ 	∂ 
+ÑßˇX≤ ª Y∑ ∂ ∂ ∂ 	∂ 
+≤ ∂ 
+ª Y∑ :66		∂ ¢ \		`∂ :
+≤ ª Y∑ ∂ ∂ ∂ 
+∂ ∂ 	∂ 
+ª Y∑  ∂ ∂ ∂ 	
+∂ !WÑÑ	Ñ	ßˇ†"∂ #¿ $:	%∂ #¿ $:
+	∏ ∂ &
+∏ ∂ &Ç6≤ ∂ '≤ 4∂ 
+≤ ª Y∑ )∂ -∂ ∂ 	∂ 
+6ûp:-∂ :∏ ∂ &ª Y∑  ∂ ∂ ∂ 	∂ #¿ $∏ ∂ &Ç6∏ *:∂ † '∂ +ô ∂ :ß ,:∏ ∂ &6≤ ∂ 
+∂ :6-∂ ¢ t-d∂ ∏ ∂ &-`∂ ∏ ∂ &Ç6∏ *:∂ † '∂ +ô ∂ :ß ,:∏ ∂ &6≤ ∂ 
+∂ :ÑÑßˇâN≤ ∂ 
+:∂ ¢ V∂ d66¢ ∂ :ÑßˇÌ∂ :≤ ª Y∑ .∂ ∂ /∂ ∂ ∂ 	∂ 
+NÑˇß˛ë≤ ª Y∑ 5∂ -∂ ∂ 	∂ 
+≤ ª Y∑ 6∂ -∏ 2∂ ∂ 	∂ 
+≤ ª Y∑ 7∂ -∏ 2í∂ ∂ 	∂ 
+-∏ 2í¨    @  Z V  " $ % & ' ) + %- /1 93 @1 F5 M: U< o= s> Ä@ âC êD öF §H ®I ≤K ªI ¡M  N ¯OS>!V;ZC[L\O]\_iaçb©e¨fØ]µk¡lÕm‡nËqr	uyz|K}R~[ÇeÖqäuéêáîêóúôøú∆ûœ¢Ÿ•Â™ÈÆÛ∞˚≤≥ó∂∏π∫&º0æ:¿CæI¬R√vƒyu«ò»µ…”  A  8  2  F G  /  H G  ´  I G  § ] H G 
+ ® Y J K  â í L G  ê ã M K 	 v ´ F G i F N K 
+R c F G 	ì z F G 3  F G 0 I H G c O K [ P K K. Q G R' R K  ] S K r T G   ⁄ d V    ⁄ W K  ÿ e G  ’ X K  “ Y K  Ã \ K  sg ] K Lé ^ _ Oã I G ¡ ` K 	Õ a K 
+‡˙ b G   f g  ?   ¬     <*MN,∂ 6º:6¢ ,∂ +∏ 8UÑßˇÁª $Y∑ 9M,∞    @   & 	  Œ œ – — “ ‘ *“ 0÷ :◊ A   H    F G    < h K     < i K   : j K   7 k K   1 l G   + m n   o g  ?   ¬     <*MN,∂ 6º:6¢ ,∂ +∏ :UÑßˇÁª $Y∑ 9M,∞    @   & 	  € ‹ › ﬁ ﬂ · *ﬂ 0„ :‰ A   H    F G    < h K     < i K   : j K   7 k K   1 l G   + m n   p    q

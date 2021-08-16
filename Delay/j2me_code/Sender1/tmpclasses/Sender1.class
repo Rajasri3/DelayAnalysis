@@ -1,0 +1,33 @@
+ ˛∫æ   / €
+ C w
+ x y	 B z { |
+  }	 B ~  Ä
+  }	 B Å Ç É
+  Ñ	 B Ö
+  Ü
+  á à	 B â ä ã å
+  ç	 B é è	 B ê
+  ë í	 B ì î	 B ï ñ	 B ó ò	 B ô ö	 B õ	 B ú ù	 B û
+ x ü
+  † °
+ ¢ £ §	 B •	 ¶ ß ®
+ 2 © ™ - ´
+ 2 ¨	 B ß - ≠	 B Æ Ø	 B ∞ ±
+ : w ≤
+ : ≥
+ : ¥
+ : µ
+  ∂
+  ∑ ∏ π ∫ display "Ljavax/microedition/lcdui/Display; displayable &Ljavax/microedition/lcdui/Displayable; stream (Ljavax/microedition/io/StreamConnection; out Ljava/io/PrintStream; in Ljava/io/InputStream; form1 Ljavax/microedition/lcdui/Form; tick1 !Ljavax/microedition/lcdui/Ticker; start "Ljavax/microedition/lcdui/Command; form5 tick3 back form4 t $Ljavax/microedition/lcdui/TextField; send form6 tick6 back6 exit <init> ()V Code LineNumberTable LocalVariableTable this 	LSender1; startApp ex Ljava/lang/Exception; pauseApp 
+destroyApp (Z)V unconditional Z commandAction K(Ljavax/microedition/lcdui/Command;Ljavax/microedition/lcdui/Displayable;)V mes Ljava/lang/String; c d 
+SourceFile Sender1.java ` a ª º Ω E F javax/microedition/lcdui/Form Sender ` æ O P javax/microedition/lcdui/Ticker YOU ARE CONNECTED Q R  javax/microedition/lcdui/Command START ` ø S T ¿ ¡ ¬ √ Chat Screen X P "javax/microedition/lcdui/TextField Message:   ` ƒ Y Z Send [ T ≈ ∆ Status U P SEND SUCCESSFULLY V R BACK W T 	NO SIGNAL \ P SORRY FOR THE DISTRUPTION ] R ^ T EXIT _ T « » …   socket://localhost:3535 À Ã Õ &javax/microedition/io/StreamConnection I J Œ K L 	Connected œ æ java/io/PrintStream – — ` “ ” ‘ M N java/lang/Exception G H java/lang/StringBuffer 	In Form2: ≈ ’ ≈ ÷ ◊ ÿ Ÿ ÿ ⁄ æ Sender1  javax/microedition/midlet/MIDlet (javax/microedition/lcdui/CommandListener  javax/microedition/lcdui/Display 
+getDisplay F(Ljavax/microedition/midlet/MIDlet;)Ljavax/microedition/lcdui/Display; (Ljava/lang/String;)V (Ljava/lang/String;II)V 
+addCommand %(Ljavax/microedition/lcdui/Command;)V setCommandListener -(Ljavax/microedition/lcdui/CommandListener;)V )(Ljava/lang/String;Ljava/lang/String;II)V append "(Ljavax/microedition/lcdui/Item;)I 
+setCurrent )(Ljavax/microedition/lcdui/Displayable;)V 	setTicker $(Ljavax/microedition/lcdui/Ticker;)V javax/microedition/io/Connector open 6(Ljava/lang/String;)Ljavax/microedition/io/Connection; java/lang/System println openOutputStream ()Ljava/io/OutputStream; (Ljava/io/OutputStream;)V openInputStream ()Ljava/io/InputStream; ,(Ljava/lang/String;)Ljava/lang/StringBuffer; ,(Ljava/lang/Object;)Ljava/lang/StringBuffer; toString ()Ljava/lang/String; 	getString 	setString ! B C  D   E F    G H     I J     K L     M N     O P     Q R     S T     U P     V R     W T     X P     Y Z     [ T     \ P     ] R     ^ T     _ T     ` a  b  µ    '*∑ *∏ ≥ *ª Y∑ µ *ª Y	∑ 
+µ *ª Y∑ µ *¥ *¥ ∂ *¥ *∂ *ª Y∑ µ *ª Y∑ µ *ª Y∑ µ *¥ *¥ ∂ W*¥ *¥ ∂ *¥ *∂ *ª Y∑ µ *ª Y∑ 
+µ *ª Y ∑ µ !*¥ *¥ !∂ *¥ *∂ *ª Y"∑ µ #*ª Y$∑ 
+µ %*ª Y ∑ µ &*¥ #*¥ &∂ *ª Y'∑ µ (*¥ #*¥ (∂ *¥ #*∂ ±    c   j    "  #  %  & % ' 4 ( ? ) G , T - f . u / Å 0 å 1 î 3 ° 4 Æ 5 Ω 6 » 7 – 9 › : Í ; ˘ < = > ?& A d      ' e f    g a  b   ´     O≤ *¥ ∂ )*¥ *¥ ∂ **+∏ ,¿ -µ .≤ /0∂ 1*ª 2Y*¥ .π 3 ∑ 4µ 5**¥ .π 6 µ 7ß L±    J M 8  c   & 	   G 
+ H  J ! K ) L = M J S M P N T d     N   h i    O e f    j a  b   +      ±    c       V d        e f    k l  b   F     
+≥ *µ 9±    c       Z  [ 	 \ d       
+ e f     
+ m n   o p  b   È     c+*¥ ¶ *≤ *¥ ∂ )ß N≤ /ª :Y∑ ;<∂ =-∂ >∂ ?∂ 1+*¥ ¶ *¥ ∂ @N*¥ 5-∂ 1*¥ ∂ A+*¥ !¶ ≤ *¥ ∂ )±     8  c   2    `  d  i  f  h / k 7 m ? n G o P r X t b v d   4    h i  ?  q r    c e f     c s T    c t H   u    v
