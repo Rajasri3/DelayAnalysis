@@ -1,6 +1,9 @@
 # DelayAnalysis
+
 #The name of project is "Delay analysis and Optimality of scheduling
+
 #Description : This project is to reduce the bottlenecks involved in data transmission in a multi hop network.
+
 In order to run this project,you need to follow below steps :
 
 1.Initially java,J2ME wireless tool kit ,Swing,RMI have to be setup on your system(Go for a stabe version-i have used java 1.7,J2ME-3.0 versions)
