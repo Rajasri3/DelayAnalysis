@@ -1,10 +1,12 @@
 # DelayAnalysis
 
-#The name of project is "Delay analysis and Optimality of scheduling
+#The name of project is "Delay analysis and Optimality of scheduling"
 
 #Description : This project is to reduce the bottlenecks involved in data transmission in a multi hop network.
 
 In order to run this project,you need to follow below steps :
+
+#git clone my-repo.git (will clone this repo to your local)
 
 1.Initially java,J2ME wireless tool kit ,Swing,RMI have to be setup on your system(Go for a stabe version-i have used java 1.7,J2ME-3.0 versions)
 
@@ -41,5 +43,7 @@ In order to run this project,you need to follow below steps :
 17.Observe the message passed between nodes(nodes are the clients created )
 
 18.Available path transmission of data can be verified by observing the paths shown in MultiHopManager screen
+
+19.The delay calculated can be seen in J2ME screen
 
 Support : rmasulda@lakeheadu.ca /shakthim191@gmail.com
